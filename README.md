@@ -29,3 +29,30 @@ It provides essential features like user registration, login, shopping cart, bal
    bash
    https://github.com/jaiakash0786/ecommerce-web
    
+2.Import into Eclipse/IntelliJ as a Dynamic Web Project.
+
+3.Configure Apache Tomcat server.
+
+4.Create a MySQL database and import the provided schema.
+
+4.Update DBConnection.java with your DB credentials.
+
+5.Deploy and run → open http://localhost:8080/ecom/
+
+## Sample Pages
+
+Login & Registration
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/319ce968-d25b-4ebf-bed5-3941cb749657" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/24e5bef2-5f86-4c10-a650-199b6cd9c288" />
+
+User Home (Products Listing)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/71c584d3-8194-4ee2-9baf-184b5bbb2b05" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/24e90743-00d8-4b5c-b04c-badd10fcc29d" />
+
+Cart & Balance System
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b7b336c3-5f0b-4d22-babe-e50e959b322c" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/70e015b2-a1e5-427e-b9fd-9087b3bb6116" />
+
+Admin Dashboard (Manage Products)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/160cc9f3-df9f-4407-9ddf-14cb772a778e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ac4c4f64-6449-4fc4-a18c-59ad448e3338" />
