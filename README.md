@@ -27,4 +27,5 @@ It provides essential features like user registration, login, shopping cart, bal
 ##  Getting Started
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/car-parts-sales-system.git
+   https://github.com/jaiakash0786/ecommerce-web
+   
