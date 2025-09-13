@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feedbacks>
+	<feedback>
+		<name>jaiaksh</name>
+		<product>gear rod</product>
+		<rating>1</rating>
+		<comments>it ok</comments>
+	</feedback>
+	<feedback>
+		<name>harish</name>
+		<product>gear rod spindle</product>
+		<rating>3</rating>
+		<comments>not ok</comments>
+	</feedback>
+	<feedback>
+		<name>kiran</name>
+		<product>alloy wheel</product>
+		<rating>4</rating>
+		<comments>it looking shiny best to buy</comments>
+	</feedback>
+</feedbacks>
