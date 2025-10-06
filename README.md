@@ -56,4 +56,10 @@ Cart & Balance System
 Admin Dashboard (Manage Products)
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/160cc9f3-df9f-4407-9ddf-14cb772a778e" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ac4c4f64-6449-4fc4-a18c-59ad448e3338" />
-![Uploading image.png…]()
+verification page 
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/6fc7fd7a-38fe-426d-836c-772fbfdd6909" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/09d85950-ee90-4a01-ba2b-302c44f63990" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/bcd32e3b-8b90-4793-ae07-be6b5e20624c" />
+
+
+
