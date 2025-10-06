@@ -117,7 +117,7 @@ body {
         <a href="cart.jsp">Cart</a>
         <a href="logout.jsp">Logout</a>
         <a href="feedback.jsp">Feedback</a>
-        
+        <a href="verification.jsp">Verify</a>
     </div>
 </div>
 <div class="content">

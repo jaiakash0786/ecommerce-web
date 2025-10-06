@@ -142,6 +142,7 @@ form button {
     <div>Admin: <b><%=username%></b></div>
     <div><a href="logout.jsp">Logout</a></div>
     <div><a href="viewFeedback.jsp">View Feedback</a></div>
+     <div><a href="verification.jsp">Verify Identity</a></div>
 </div>
 
 <div class="content">
